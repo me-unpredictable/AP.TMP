@@ -4,3 +4,5 @@ A.B*2
 CTRL+O # to save
 CTRL+X # to exit
 
+
+test
